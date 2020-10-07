@@ -36,8 +36,8 @@ mostrarAltura(var_altura)
 mostrarAltura(var_altura)
 print(type(year))
 
-chicas = "nunca te voy dejar de recordar cuando te mirabaim"
+carros = "nunca te voy dejar de recordar cuando te mirabaim"
 
-print(chicas)
+print(carros)
 
-print("Sofia \n todavia te quiero")
+print("salto \n de linea")
